@@ -1,0 +1,73 @@
+  
+* {
+    padding: 0;
+    margin: 0;
+  }
+  
+  .link {
+    color: black;
+    padding: 1rem;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+  }
+
+  .formDiv {
+    text-align: center;
+    border: 1px solid white;
+    padding-left: 500px;
+    padding-right: 500px;
+  }
+
+  .dashboardCard {
+      display: flex;
+      justify-content: center;
+      flex-direction: column;
+      text-align: center;
+  }
+
+  .horizontalAlign {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .leftAlign {
+    padding-left: 40px;
+  }
+
+  .leftAlignForm{
+    padding-left: 30px;
+  }
+
+  .alignCard {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .textAlign {
+      text-align: center;
+  }
+
+  .detailsDiv {
+    text-align: center;
+    border: 1px solid white;
+    padding-left: 500px;
+    padding-right: 500px;
+  }
+
+  .content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .alignButton {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  
